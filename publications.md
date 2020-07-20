@@ -10,7 +10,7 @@ Presentation was deliverd during [NodeJs Wrocław](https://www.meetup.com/Node-j
 
 During this talk, I have explored limitless possibilities which give us Puppeteer. We took a look at topics like web scraping, server-side rendering, and collection of various metrics regarding performance and SEO.
 
-Download in [PDF](https://github.com/kaaboaye/publications/raw/master/puppeteer.pdf).
+Download in [PDF](https://github.com/kaaboaye/kaaboaye/raw/master/puppeteer.pdf).
 
 ## Macros in Elixir
 
