@@ -1,8 +1,4 @@
 # List of my publications
-Mieszko Wawrzyniak
-
- - [LinkedIn](https://www.linkedin.com/in/mieszko-wawrzyniak/)
-
 
 ## Puppeteer beyond testing
 
