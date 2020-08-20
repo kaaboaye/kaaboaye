@@ -2,7 +2,6 @@
 
  - I work at [Surfer](https://surferseo.com/)
  - [LinkedIn](https://www.linkedin.com/in/mieszko-wawrzyniak/)
- - [List of my publications](https://github.com/kaaboaye/kaaboaye/blob/master/publications.md)
  - You can play rust checkers [here](https://kaaboaye.github.io/checkers/)
 
 <!--
