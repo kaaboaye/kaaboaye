@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - I work at [Surfer](https://surferseo.com/)
+ - I'm CTO @ [Surfer Local](https://surferlocal.com/)
  - [LinkedIn](https://www.linkedin.com/in/mieszko-wawrzyniak/)
  - You can play rust checkers [here](https://kaaboaye.github.io/checkers/)
 
