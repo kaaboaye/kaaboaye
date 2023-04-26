@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - I'm CTO at [Localo](https://localo.com/)
+ - I'm CTO at [Localo - local SEO tool](https://localo.com/)
  - [LinkedIn](https://www.linkedin.com/in/mieszko-wawrzyniak/)
  - You can play rust checkers [here](https://kaaboaye.github.io/checkers/)
 
